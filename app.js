@@ -1,6 +1,7 @@
 const square = document.querySelectorAll('.square')
 const mole = document.querySelectorAll('.mole')
 const timeLeft = document.querySelector('#time-left')
+const square_value = document.querySelector('#square_value')
 let score = document.querySelector('#score')
 
 let result = 0
